@@ -1,0 +1,6 @@
+Flask==2.3.2
+ultralytics
+python-dotenv
+google-cloud-storage
+Pillow
+requests
